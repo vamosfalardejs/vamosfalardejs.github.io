@@ -1,0 +1,6 @@
+---
+published: true
+title: 16 de Junho de 2016
+layout: post
+---
+<img src="https://vamosfalardejs.github.io/public/post/Postados/post1.png">
